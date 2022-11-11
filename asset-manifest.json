@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/web-mob-dev/static/css/main.34511000.chunk.css",
+    "main.js": "/web-mob-dev/static/js/main.a9280020.chunk.js",
+    "main.js.map": "/web-mob-dev/static/js/main.a9280020.chunk.js.map",
+    "runtime-main.js": "/web-mob-dev/static/js/runtime-main.d67bcc47.js",
+    "runtime-main.js.map": "/web-mob-dev/static/js/runtime-main.d67bcc47.js.map",
+    "static/js/2.062fa7f6.chunk.js": "/web-mob-dev/static/js/2.062fa7f6.chunk.js",
+    "static/js/2.062fa7f6.chunk.js.map": "/web-mob-dev/static/js/2.062fa7f6.chunk.js.map",
+    "static/css/3.df879eac.chunk.css": "/web-mob-dev/static/css/3.df879eac.chunk.css",
+    "static/js/3.3a89cf1d.chunk.js": "/web-mob-dev/static/js/3.3a89cf1d.chunk.js",
+    "static/js/3.3a89cf1d.chunk.js.map": "/web-mob-dev/static/js/3.3a89cf1d.chunk.js.map",
+    "static/css/4.e91a4b36.chunk.css": "/web-mob-dev/static/css/4.e91a4b36.chunk.css",
+    "static/js/4.ce106a27.chunk.js": "/web-mob-dev/static/js/4.ce106a27.chunk.js",
+    "static/js/4.ce106a27.chunk.js.map": "/web-mob-dev/static/js/4.ce106a27.chunk.js.map",
+    "index.html": "/web-mob-dev/index.html",
+    "precache-manifest.c1bbb2336ffca8e991a63af2c08b3afe.js": "/web-mob-dev/precache-manifest.c1bbb2336ffca8e991a63af2c08b3afe.js",
+    "service-worker.js": "/web-mob-dev/service-worker.js",
+    "static/css/3.df879eac.chunk.css.map": "/web-mob-dev/static/css/3.df879eac.chunk.css.map",
+    "static/css/4.e91a4b36.chunk.css.map": "/web-mob-dev/static/css/4.e91a4b36.chunk.css.map",
+    "static/css/main.34511000.chunk.css.map": "/web-mob-dev/static/css/main.34511000.chunk.css.map",
+    "static/js/2.062fa7f6.chunk.js.LICENSE.txt": "/web-mob-dev/static/js/2.062fa7f6.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/web-mob-dev/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/HKUST.png": "/web-mob-dev/static/media/HKUST.7d37cfd1.png",
+    "static/media/applied.png": "/web-mob-dev/static/media/applied.f86cf5c3.png",
+    "static/media/codeInLogo.webp": "/web-mob-dev/static/media/codeInLogo.47a7a717.webp",
+    "static/media/contactMailDark.svg": "/web-mob-dev/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/web-mob-dev/static/media/developerActivity.59389695.svg",
+    "static/media/googleAssistantLogo.webp": "/web-mob-dev/static/media/googleAssistantLogo.e79c6392.webp",
+    "static/media/housetable.png": "/web-mob-dev/static/media/housetable.335c6e12.png",
+    "static/media/manOnTable.svg": "/web-mob-dev/static/media/manOnTable.52be3144.svg",
+    "static/media/monsta.jpg": "/web-mob-dev/static/media/monsta.94e74e06.jpg",
+    "static/media/pwaLogo.webp": "/web-mob-dev/static/media/pwaLogo.ee62cb58.webp",
+    "static/media/skill.svg": "/web-mob-dev/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/web-mob-dev/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d67bcc47.js",
+    "static/js/2.062fa7f6.chunk.js",
+    "static/css/main.34511000.chunk.css",
+    "static/js/main.a9280020.chunk.js"
+  ]
+}
