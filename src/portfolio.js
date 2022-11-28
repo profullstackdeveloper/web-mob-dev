@@ -33,7 +33,7 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/profullstackdeveloper",
-  linkedin: "https://www.linkedin.com/in/daniel-lee841a78235",
+  linkedin: "https://hk.linkedin.com/in/daniel-lee841a78235",
   gmail: "neverdream9106@gmail.com",
   display: true // Set true to display this section, defaults to false
 };
