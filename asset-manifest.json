@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/web-mob-dev/static/css/main.34511000.chunk.css",
-    "main.js": "/web-mob-dev/static/js/main.a9280020.chunk.js",
-    "main.js.map": "/web-mob-dev/static/js/main.a9280020.chunk.js.map",
+    "main.js": "/web-mob-dev/static/js/main.55ff4b62.chunk.js",
+    "main.js.map": "/web-mob-dev/static/js/main.55ff4b62.chunk.js.map",
     "runtime-main.js": "/web-mob-dev/static/js/runtime-main.d67bcc47.js",
     "runtime-main.js.map": "/web-mob-dev/static/js/runtime-main.d67bcc47.js.map",
     "static/js/2.062fa7f6.chunk.js": "/web-mob-dev/static/js/2.062fa7f6.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.ce106a27.chunk.js": "/web-mob-dev/static/js/4.ce106a27.chunk.js",
     "static/js/4.ce106a27.chunk.js.map": "/web-mob-dev/static/js/4.ce106a27.chunk.js.map",
     "index.html": "/web-mob-dev/index.html",
-    "precache-manifest.c1bbb2336ffca8e991a63af2c08b3afe.js": "/web-mob-dev/precache-manifest.c1bbb2336ffca8e991a63af2c08b3afe.js",
+    "precache-manifest.9e16e9deeeb3641918017cf5ee7e49d2.js": "/web-mob-dev/precache-manifest.9e16e9deeeb3641918017cf5ee7e49d2.js",
     "service-worker.js": "/web-mob-dev/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/web-mob-dev/static/css/3.df879eac.chunk.css.map",
     "static/css/4.e91a4b36.chunk.css.map": "/web-mob-dev/static/css/4.e91a4b36.chunk.css.map",
@@ -38,6 +38,6 @@
     "static/js/runtime-main.d67bcc47.js",
     "static/js/2.062fa7f6.chunk.js",
     "static/css/main.34511000.chunk.css",
-    "static/js/main.a9280020.chunk.js"
+    "static/js/main.55ff4b62.chunk.js"
   ]
 }
